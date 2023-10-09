@@ -1,4 +1,4 @@
-package com.mx.gustavo.hndz.desafioarquitecturas
+package com.mx.gustavo.hndz.desafioarquitecturas.data.remote
 
 data class ServerMovie(
     val adult: Boolean,

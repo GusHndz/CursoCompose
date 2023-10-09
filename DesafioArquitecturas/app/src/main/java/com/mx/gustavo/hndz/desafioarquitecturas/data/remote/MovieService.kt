@@ -1,4 +1,4 @@
-package com.mx.gustavo.hndz.desafioarquitecturas
+package com.mx.gustavo.hndz.desafioarquitecturas.data.remote
 
 import retrofit2.http.GET
 
